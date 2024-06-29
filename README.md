@@ -1,4 +1,4 @@
-# safe-web-proxy
+# safe-web-proxy-ha
 Secure Web Proxy HA Setup deployed on Kubernetes | For A Secure Internet Access of Cloud Environments
 
 The awesome next generation proxy service will be based on machine learning with whitelisting rules. 
